@@ -39,7 +39,7 @@ Each alphanumerical character in your filename should be separated by the unders
 Of course! 
 Take for example the following file name:
 
-1. `Tonya__TMA_A7_NeuN_350_TTC_488_CP13_546_BME_647_Tau_790_01202021_P2590_ROI1_CH01.tif`
+1. `Tonya_TMA_A7_NeuN_350_TTC_488_CP13_546_BME_647_Tau_790_01202021_P2590_ROI1_CH01.tif`
 
            OR
 
