@@ -89,7 +89,7 @@ Let's break that filename 1. down:
 
 - `CH01` denotes the channel of interest to create a mask for. This is the channel number the tool will use to count the neurons. In this case Channel 1 (`CH01` formatted as: `CH##`), refers to the `NeuN` in the filename. 
 
-**IMPORTANT:** No more than 1 channel specified per image. 
+   **IMPORTANT:** No more than 1 channel specified per image. 
 
 ## Examples of unnaceptable file names:
 
