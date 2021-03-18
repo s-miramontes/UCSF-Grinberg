@@ -41,11 +41,11 @@ Take for example the following file name:
 
 1. `Tonya__TMA_A7_NeuN_350_TTC_488_CP13_546_BME_647_Tau_790_01202021_P2590_ROI1_CH01.tif`
 
-OR
+           OR
 
-3. `Tonya_EC_NeuN_350_TTC_488_CP13_546_BME_647_Tau_790_01202021_P2590_ROI1_CH01.tif`
+2. `Tonya_EC_NeuN_350_TTC_488_CP13_546_BME_647_Tau_790_01202021_P2590_ROI1_CH01.tif`
 
-Let's break that filename 1. down:
+Let's break the first example (1) below:
 
 - `Tonya` is an example of the name of whose project you're working on.
  
