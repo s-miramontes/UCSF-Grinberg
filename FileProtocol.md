@@ -40,35 +40,53 @@ Of course!
 Take for example the following file name:
 
 1. **Tonya__TMA_A7_NeuN_350_TTC_488_CP13_546_BME_647_Tau_790_01202021_P2590_ROI1_CH01.tif**
-
 OR
-
 2. **Tonya\_EC_NeuN_350_TTC_488_CP13_546_BME_647_Tau_790_01202021_P2590_ROI1_CH01.tif**
-
 
 Let's break that filename (1) down:
 
 1. "Tonya" is an example of the name of whose project you're working on.
+ 
 2. Obligatory character to separate '\_'
+
 3. "TMA" and "\_" and "A7" depict the brain region that is scanned. Note that brain region can also be simply denoted by "TC".
+ 
 4. Again, the obligatory character to separate '\_'.
+
 5. "NeuN" and "\_" and "350" denote the biomarker (NeuN), obligatory character to separate (\_), and biomarker channel (350).
+
 6. Again, the obligatory character to separate '\_'.
+
 7. "TTC" and "\_" and "488" denote the biomarker (TTC), obligatory character to separate (\_), and biomarker channel (488).
+
 8. Again, the obligatory character to separate '\_'.
+
 9. "CP13" and "\_" and "546" denote the biomarker (CP13), character to separate (\_), and biomarker channel (546).
+
 10. Again, the obligatory character to separate '\_'.
+
 11. "BME" and "\_" and "647" denote the biomarker (BME), character to separate (\_), and biomarker channel (647).
+
 12. Again, the obligatory character to separate '\_'.
+
 13. "TAU" and "\_" and "790" denote the biomarker (TAU), character to separate (\_), and biomarker channel (790).
+
 14. Again, the obligatory character to separate '\_'.
+
 15. "01202021" denotes the date in which you completed the scan. The date format must be MM/DD/YYYY.
+
 16. Again, the obligatory character to separate '\_'.
+
 17. "P5590" is the name of the specimen you scanned.
+
 18. Again, the obligatory character to separate '\_'.
+
 19. "ROI1", is the name of the region of the slide you scanned for the crops you generate. Generally follow ROI#, for '#' is whatever crop number you generated for that specific brain region.
+
 20. Again (and the last one required), the obligatory character to separate '\_'.
+
 21. "CH01" denotes the channel of interest to create a mask for. This is the channel number the tool will use to count the neurons. In this case Channel 1 ("CH01" formatted as: CH##), refers to NeuN. 
+
 
 **IMPORTANT:** No more than 1 channel specified per image. 
 
@@ -80,15 +98,15 @@ NO EXTRA PERIODS --> ".ome" should **NOT** be in this file name. This is also tw
 
 2. **Tonya__TMA_A7_NeuN_350_TTC_488_CP13_546_BME_647_Tau_790_01202021_P2590_ROI1.2.4_CH01.2.tif**
 
-NO EXTRA PERIODS -> "ROI1.2.4" nor "CH01.2" in your file name besides the allowed file extension. 
+    NO EXTRA PERIODS -> "ROI1.2.4" nor "CH01.2" in your file name besides the allowed file extension. 
 
 3. Tonya_Piergies__TMA_A7_NeuN_350_TTC_488_CP13_546_BME_647_Tau_790_01202021_P2590_ROI1_CH01.tif**
 
-NO LAST NAMES SEPARATED BY "\_" ("Tonya Piergies.")
+    NO LAST NAMES SEPARATED BY "\_" ("Tonya Piergies.")
 
 4. **Tonya__TMA_A7_NeuN_350_TTC_488_CP13_546_BME_647_Tau_790_01202021_P2590_ROI1_CH01_CHO3.tif**
 
-NO EXTRA CHANNELS AT THE END --> "CHO1_CH03" if you need to count **two or more** channels of the same region you must save each image separately with the appropriate file name. 
+    NO EXTRA CHANNELS AT THE END --> "CHO1_CH03" if you need to count **two or more** channels of the same region you must save each image separately with the  appropriate file name. 
 
 That is:
 
