@@ -27,9 +27,13 @@ For every image that you scan, there are two steps you need to follow.
 	All generated regions should be saved without needed order but **following the filename protocols**. See `FileProtocol.md`.
 	- If you generated 5 cropped regions (following appropriate protocols), you need to include 5 copies in this general folder.
 			- `...P2590_ROI1...tif` 
+		
 			- `...P2590_ROI2...tif`
+		
 			- `...P2590_ROI3...tif`
+		
 			- `...P2590_ROI4...tif`
+		
 			- `...P2590_ROI5...tif`
 
 			*Note that the `...` denotes the other elements that should be included in your file name. See `FileProtocol.md`.*
