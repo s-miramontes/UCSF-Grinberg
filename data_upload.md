@@ -1,8 +1,8 @@
 # Data Upload
 
-### How do I upload my data into information commons jupyterhub?
+#### How do I upload my data into information commons JupyterHub?
 
-Do not. **DO NOT** upload your images using the jupyterhub interface. File uploads above 1MB will be deprecated if uploaded through that interface.
+Do not. **DO NOT** upload your images using the JupyterHub interface. File uploads above 1MB will be deprecated if uploaded through that interface.
 So please avoid that. 
 
 ## Here is how:
