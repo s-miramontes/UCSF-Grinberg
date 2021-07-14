@@ -18,4 +18,4 @@ When you first start using the tool you will need to paste some of these command
   - Seeing these files on your left-hand-side, means that these files are saved in your jupyter s3 bucket. 
   - These files/directories will not be deleted and will remain in your jupyter bucket everytime you log into IC's JupyterHub. 
 
-*Transfer your data see: 03_data_upload.md *
+## To upload your data see: 03_data_upload.md
