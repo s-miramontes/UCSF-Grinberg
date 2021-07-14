@@ -10,7 +10,7 @@ When you first start using the tool you will need to paste some of these command
     
   - This should have placed all of the files necessary for the segmentation tool to run in your jupyter environment. **You will not need to do this again, unless there are updates.**
   
-# Check whether your files are uploaded on JupyterHub.
+# Check JupyterHub
   - Proceed to log on to JupyterHub as in the first tutorial, to see whether the folder `tools` appears on your left hand side.
   - You can access this folder by double-clicking into it.
   - You should see 3 files `get-masks-SU21.ipynb`, `fileManager.py`, and `maskGenerator.py`.
@@ -18,4 +18,4 @@ When you first start using the tool you will need to paste some of these command
   - Seeing these files on your left-hand-side, means that these files are saved in your jupyter s3 bucket. 
   - These files/directories will not be deleted and will remain in your jupyter bucket everytime you log into IC's JupyterHub. 
 
-**Transfer your data see: 03_data_upload.md **
+*Transfer your data see: 03_data_upload.md *
